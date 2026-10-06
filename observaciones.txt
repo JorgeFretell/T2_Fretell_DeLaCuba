@@ -1,0 +1,1 @@
+Observacion: Evaluacion de control de versiones y gestion del staging area con Git.

@@ -7,3 +7,6 @@
 
 ## Evidencia T2
 Identificación: Desarrollo práctico de control de versiones con Git y GitHub para la Evaluación T2 del curso Lenguaje de Programación II.
+
+## Control de cambios
+Registro y control de modificaciones realizadas sobre el proyecto y gestion del area de preparacion.
